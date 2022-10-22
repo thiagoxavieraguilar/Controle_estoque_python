@@ -4,4 +4,4 @@
  
  Blibliotecas usadas: Sqlite3,PyQt5,reportlab e o mysql-connector.
  
- Campos da tabela do mysql: codigo(primary key),descricao,preco,categoria,quantidade
+ Campos da tabela produtos do mysql: codigo(primary key),descricao,preco,categoria,quantidade
